@@ -8,6 +8,7 @@ import { SharedModule } from './shared/shared.module';
       isGlobal: true,
       envFilePath: '.env',
     }),
+
     SharedModule,
   ],
 })
